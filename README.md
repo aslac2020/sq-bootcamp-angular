@@ -1,27 +1,26 @@
-# MyTasks
+# Projeto Desafio Programana New Thinkers -Squadra
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
-## Development server
+# Sobre o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Projeto Angular  My Tasks - Desafio do Projeto do  **Programana New Thinkers -Squadra**.
 
-## Code scaffolding
+Consiste em um sistema de tarefas, onde você pode adicionar, excluir, setar como concluida e depois listas as tarefas.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Layout web
+![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/desafiomytasksHome.PNG)
+![Web 2](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/desafiomytasks.PNG)
 
-## Build
+# Tecnologias utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Front end e Back end
+- ANGULAR
+- CSS
+- JAVASCRIPT
+- TYPESCRIPT
 
-## Running unit tests
+# Autor
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+André de Sousa Lacerda
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://www.linkedin.com/in/andr%C3%A9-lacerda-9999a4173/
